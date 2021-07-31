@@ -1,0 +1,29 @@
+
+
+
+
+#focus {
+	OVERFLOW: hidden; HEIGHT: 280px; WIDTH: 1255px; POSITION: relative
+}
+#focus UL {
+	HEIGHT: 280px; POSITION: absolute; 
+}
+#focus UL LI {
+	OVERFLOW: hidden; HEIGHT: 280px; WIDTH: 1255px; POSITION: relative; FLOAT: left;
+}
+#focus UL LI DIV {
+	OVERFLOW: hidden; POSITION: absolute; 
+}
+#focus .btnBg {
+	HEIGHT: 20px; WIDTH: 1255px; BACKGROUND: #000; POSITION: absolute; LEFT: 0px; BOTTOM: 0px
+}
+#focus .btn {
+	HEIGHT: 10px; WIDTH: 1255px; RIGHT: 0px; POSITION: absolute; PADDING-BOTTOM: 5px; TEXT-ALIGN: right; PADDING-TOP: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BOTTOM: 0px
+}
+#focus .btn SPAN {
+	CURSOR: pointer; HEIGHT: 10px; WIDTH: 25px; BACKGROUND: #fff; MARGIN-LEFT: 5px; DISPLAY: inline-block; _display: inline; _zoom: 1; _font-size: 0
+}
+
+UL {
+	LIST-STYLE-TYPE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}

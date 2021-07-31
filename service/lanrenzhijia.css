@@ -1,0 +1,153 @@
+.float0831 {
+	top: 20%; right: 0px; position: fixed; z-index: 9999; _position: absolute;
+}
+.float0831 a {
+	color: rgb(0, 160, 233);
+}
+.float0831 a:hover {
+	color: rgb(255, 129, 0); text-decoration: none;
+}
+.float0831 .floatL {
+	width: 28px; float: left; position: relative;
+}
+.float0831 .floatL a {
+	text-indent: -9999px; font-size: 0px; display: block;
+}
+.float0831 .floatR {
+	background: url("../service/float_bg.gif");
+}
+.float0831 .tp {
+	background: url("../service/float_bg.gif");
+}
+.float0831 .cn {
+	background: url("../service/float_bg.gif");
+}
+.float0831 .floatR {
+	background-position: -131px 4px; width: 130px; overflow: hidden; padding-bottom: 15px; float: left; background-repeat: no-repeat;
+}
+.float0831 .tp {
+	background-position: 0% 0%; height: 10px; background-repeat: no-repeat;
+}
+.float0831 .cn {
+	background-position: -262px 0px; background-repeat: repeat-y;
+}
+.float0831 .cn h3 {
+	height: 36px; text-indent: -9999px; font-size: 0px;
+}
+.float0831 .cn ul {
+	padding: 0px 14px;
+}
+.float0831 .cn ul li {
+	height: 36px; line-height: 36px; overflow: hidden; border-bottom-color: rgb(230, 229, 228); border-bottom-width: 1px; border-bottom-style: solid; -ms-word-break: normal; -ms-word-wrap: break-word;
+}
+.float0831 .titZx {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .titDh {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .titDc {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .icoZx {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .icoTc1 {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .icoFf {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .icoTl {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .btnOpen {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .btnOpen_n {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .btnCtn {
+	background: url("../service/float_s.gif") no-repeat;
+}
+.float0831 .titZx {
+	background-position: 5px -10px;
+}
+.float0831 .titDh {
+	background-position: 5px -66px;
+}
+.float0831 .titDc {
+	background-position: 5px -124px;
+}
+.float0831 .icoZx {
+	background-position: 2px -154px;
+}
+.float0831 .icoTc {
+	background-position: 0px -323px;
+}
+.float0831 .icoFf {
+	background-position: 2px -213px;
+}
+.float0831 .icoTl {
+	background-position: 2px -266px; padding-left: 20px; font-family: "Î¢ÈíÑÅºÚ"; float: left; display: block;
+}
+.float0831 .btnOpen {
+	background-position: -30px -396px;
+}
+.float0831 .btnOpen_n {
+	background-position: 0px -530px;
+}
+.float0831 .btnCtn {
+	background-position: 0px -396px;
+}
+.float0831 .icoZx {
+	padding-left: 28px; float: left; display: block;
+}
+.float0831 .icoTc {
+	padding-left: 0px; float: left; display: block;
+}
+.float0831 .icoFf {
+	padding-left: 28px; float: left; display: block;
+}
+.float0831 .btnOpen {
+	left: 2px; top: 80px; width: 28px; height: 118px; position: relative;
+}
+.float0831 .btnOpen_n {
+	left: 2px; top: 80px; width: 28px; height: 118px; position: relative;
+}
+.float0831 .btnCtn {
+	left: 2px; top: 80px; width: 28px; height: 118px; position: relative;
+}
+.float0831 .btnOpen {
+	left: 1px; top: 0px;
+}
+.float0831 .btnOpen_n {
+	left: 1px; top: 0px;
+}
+.float0831 .btnCtn {
+	left: 2px; top: 0px;
+}
+.float0831 ul li h3.titDc a {
+	width: 80px; height: 36px; display: block;
+}
+.float0831 ul li.qqtop {
+	border-bottom-color: rgb(172, 229, 249); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.float0831 ul li.bot {
+	border-bottom-style: none;
+}
+.float0831 ul.webZx {
+	background: url("../service/webZx_bg.jpg") no-repeat; padding: 0px; width: 164px; height: 65px;
+}
+.float0831 ul li.webZx-in {
+	height: 50px; padding-top: 8px; padding-left: 5px; border-bottom-style: none;
+}
+.qr {
+	padding: 10px 0px; width: 130px; text-align: center; clear: both; background-color: rgb(0, 160, 233);
+}
+.qr img {
+	width: 100px; height: 100px; text-align: center; clear: both;
+}
+.qr p {
+	color: rgb(255, 255, 255); font-family: "Î¢ÈíÑÅºÚ"; font-size: 13px; margin-bottom: 5px;
+}
